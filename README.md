@@ -5,3 +5,5 @@ this devops training
 
 ## Training
 this is traininh for freshers
+##contributio
+this is auto merging
