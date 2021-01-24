@@ -7,5 +7,6 @@ this devops training
 this is traininh for freshers
 git rebase 
 ne concept
-##contributio
+## contributio
 this is auto merging
+lots of process going on
