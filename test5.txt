@@ -4,6 +4,7 @@ im finr thank you
 how are you
 this is my 5tntest
 i think its a success
+<<<<<<< HEAD
 jjo 
 hey im having fun
 yoo have fun
@@ -11,3 +12,7 @@ this is traning
 its going good
 im studying
 im doing changes
+=======
+going to insert conflicts
+
+>>>>>>> newbranch
