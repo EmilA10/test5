@@ -13,3 +13,6 @@ this is auto merging
 lets wait for another rebase c=conf
 
 thank you
+#Stashing
+this session for Stashing
+
