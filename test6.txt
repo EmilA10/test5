@@ -2,3 +2,5 @@ fi have removed first line
 nsusnuw
 nnepind
 sjniws
+last line
+cannot be removed
